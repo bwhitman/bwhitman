@@ -1,2 +1,1 @@
-hi
-
+Hi, I'm Brian, I'm a <a href="https://notes.variogr.am/about">scientist and startup person focusing on personalization, machine learning, music and the news.</a> I was a founder of <a href="https://en.wikipedia.org/wiki/The_Echo_Nest">The Echo Nest</a> and <a href="https://canopy.cr/">Canopy</a>. My current most active open source project is <a href="https://github.com/bwhitman/alles">Alles, the mesh synthesizer</A>. Check it out!
